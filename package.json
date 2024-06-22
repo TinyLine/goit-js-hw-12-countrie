@@ -1,0 +1,21 @@
+{
+  "name": "goit-js-hw-12-countries",
+  "version": "1.0.0",
+  "description": "A small application for searching countries using Rest Countries API",
+  "main": "index.js",
+  "scripts": {
+  "dev": "parcel index.html",
+  "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "parcel-bundler": "^1.12.5",
+    "gh-pages": "^3.2.3",
+    "prettier": "^2.3.2"
+  }
+
+ 
+}
